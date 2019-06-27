@@ -1,0 +1,31 @@
+﻿  main.cpp
+c:\users\rodri\downloads\dataframe\dataframe\cdataframe.h(30): warning C4018: '<': no coinciden signed/unsigned
+c:\users\rodri\downloads\dataframe\dataframe\cdataframe.h(35): warning C4018: '<': no coinciden signed/unsigned
+c:\users\rodri\downloads\dataframe\dataframe\cdataframe.h(41): warning C4018: '<': no coinciden signed/unsigned
+c:\users\rodri\downloads\dataframe\dataframe\coperaciones.h(88): warning C4018: '<': no coinciden signed/unsigned
+c:\users\rodri\downloads\dataframe\dataframe\coperaciones.h(90): warning C4018: '<': no coinciden signed/unsigned
+c:\users\rodri\downloads\dataframe\dataframe\coperaciones.h(92): warning C4018: '<': no coinciden signed/unsigned
+c:\users\rodri\downloads\dataframe\dataframe\coperaciones.h(116): warning C4018: '<': no coinciden signed/unsigned
+c:\users\rodri\downloads\dataframe\dataframe\coperaciones.h(118): warning C4018: '<': no coinciden signed/unsigned
+c:\users\rodri\downloads\dataframe\dataframe\coperaciones.h(121): warning C4018: '<': no coinciden signed/unsigned
+c:\users\rodri\downloads\dataframe\dataframe\coperaciones.h(138): warning C4018: '<': no coinciden signed/unsigned
+c:\users\rodri\downloads\dataframe\dataframe\coperaciones.h(156): warning C4018: '<': no coinciden signed/unsigned
+c:\users\rodri\downloads\dataframe\dataframe\coperaciones.h(174): warning C4018: '<': no coinciden signed/unsigned
+c:\users\rodri\downloads\dataframe\dataframe\coperaciones.h(186): warning C4018: '<': no coinciden signed/unsigned
+c:\users\rodri\downloads\dataframe\dataframe\coperaciones.h(198): warning C4018: '<': no coinciden signed/unsigned
+c:\users\rodri\downloads\dataframe\dataframe\coperaciones.h(210): warning C4018: '<': no coinciden signed/unsigned
+c:\users\rodri\downloads\dataframe\dataframe\coperaciones.h(222): warning C4018: '<': no coinciden signed/unsigned
+c:\users\rodri\downloads\dataframe\dataframe\coperaciones.h(252): warning C4018: '<': no coinciden signed/unsigned
+c:\users\rodri\downloads\dataframe\dataframe\coperaciones.h(256): warning C4018: '<': no coinciden signed/unsigned
+c:\users\rodri\downloads\dataframe\dataframe\coperaciones.h(272): warning C4018: '<': no coinciden signed/unsigned
+c:\users\rodri\downloads\dataframe\dataframe\coperaciones.h(281): warning C4018: '<': no coinciden signed/unsigned
+c:\users\rodri\downloads\dataframe\dataframe\coperaciones.h(285): warning C4018: '<': no coinciden signed/unsigned
+c:\users\rodri\downloads\dataframe\dataframe\coperaciones.h(304): warning C4018: '<': no coinciden signed/unsigned
+c:\users\rodri\downloads\dataframe\dataframe\coperaciones.h(313): warning C4018: '<': no coinciden signed/unsigned
+c:\users\rodri\downloads\dataframe\dataframe\coperaciones.h(317): warning C4018: '<': no coinciden signed/unsigned
+c:\users\rodri\downloads\dataframe\dataframe\coperaciones.h(336): warning C4018: '<': no coinciden signed/unsigned
+c:\users\rodri\downloads\dataframe\dataframe\coperaciones.h(353): warning C4018: '<': no coinciden signed/unsigned
+c:\users\rodri\downloads\dataframe\dataframe\coperaciones.h(358): warning C4018: '<': no coinciden signed/unsigned
+c:\users\rodri\downloads\dataframe\dataframe\coperaciones.h(364): warning C4018: '<': no coinciden signed/unsigned
+c:\users\rodri\downloads\dataframe\dataframe\main.cpp(6): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  DataFrame.vcxproj -> C:\Users\rodri\Downloads\DataFrame\Debug\DataFrame.exe
